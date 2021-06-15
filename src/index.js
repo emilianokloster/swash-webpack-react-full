@@ -1,7 +1,7 @@
 const e = {
     a: 2,
     b: 3,
-    c: 1
+    c: 5
 }
 
 console.log(e)
